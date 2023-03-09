@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author EPER
+ *
+ */
+module Boat {
+}
